@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "c:/Users/dscrignoli/Documents/Github/monitoring/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "c:/Users/dscrignoli/Documents/Github/monitoring/frontend/generated/jar-resources",
+  "staticOutput": "c:/Users/dscrignoli/Documents/Github/monitoring/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "c:\\Users\\dscrignoli\\Documents\\Github\\monitoring\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "c:\\Users\\dscrignoli\\Documents\\Github\\monitoring\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "c:/Users/dscrignoli/Documents/Github/monitoring/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "c:/Users/dscrignoli/Documents/Github/monitoring/target/dev-bundle/config",
+  "jarResourcesFolder": "c:/Users/dscrignoli/Documents/Github/monitoring/frontend/generated/jar-resources",
+  "themeName": "my-app",
+  "clientServiceWorkerSource": "c:\\Users\\dscrignoli\\Documents\\Github\\monitoring\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
